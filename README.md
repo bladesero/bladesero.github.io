@@ -1,0 +1,2 @@
+# bladesero.github.io
+blog
